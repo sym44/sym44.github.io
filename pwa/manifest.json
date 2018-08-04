@@ -1,13 +1,13 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "sym44 Blog",
+  "short_name": "sym44 Blog",
+  "description": "A personal blog by quant",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
+    "src": "icons/alpha_128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "icons/alpha_256.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
